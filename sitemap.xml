@@ -6,7 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hoshihomura.github.io/PhysicsNotes/Mechanics/</loc>
+         <loc>https://hoshihomura.github.io/PhysicsNotes/Mechanics1/</loc>
+         <lastmod>2022-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hoshihomura.github.io/PhysicsNotes/Mechanics1/kinematics/</loc>
+         <lastmod>2022-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hoshihomura.github.io/PhysicsNotes/Mechanics1/kinematics1/</loc>
          <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
