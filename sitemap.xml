@@ -2,22 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hoshihomura.github.io/PhysicsNotes/</loc>
-         <lastmod>2022-04-05</lastmod>
+         <lastmod>2022-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hoshihomura.github.io/PhysicsNotes/Maths/</loc>
+         <lastmod>2022-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hoshihomura.github.io/PhysicsNotes/Maths/derivatives-and-stuffs/</loc>
+         <lastmod>2022-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hoshihomura.github.io/PhysicsNotes/Mechanics1/</loc>
-         <lastmod>2022-04-05</lastmod>
+         <lastmod>2022-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hoshihomura.github.io/PhysicsNotes/Mechanics1/kinematics/</loc>
-         <lastmod>2022-04-05</lastmod>
+         <lastmod>2022-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hoshihomura.github.io/PhysicsNotes/Mechanics1/kinematics1/</loc>
-         <lastmod>2022-04-05</lastmod>
+         <lastmod>2022-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
